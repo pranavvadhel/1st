@@ -1,3 +1,4 @@
 # 1st
 demo
-Author:PD
+Author:Pranav Vadhel
+       Poojan Trivedi 
